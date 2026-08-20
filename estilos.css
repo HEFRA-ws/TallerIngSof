@@ -4,3 +4,8 @@ body {
   margin: 0;
   src: format();
 }
+header {
+  background: #222;
+  color: white;
+  padding: 1rem;
+}
